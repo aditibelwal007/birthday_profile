@@ -18,7 +18,7 @@ This project is a creative and personalized **Birthday Profile Web Page** design
 ## 📁 Project Structure
 
 
-📁 Files Included
+## 📁 Files Included
 index.html – Main profile card with name, image, and greeting
 
 profile-link.html – Detailed birthday letter/message
@@ -27,7 +27,7 @@ Card img.jpg – Profile image used in the card
 
 README.md – Project documentation
 
-📌 Use Case
+ ## 📌 Use Case
 You can use this project for:
 
 A digital birthday card 🎁
@@ -38,7 +38,7 @@ A web development practice project 🧑‍💻
 
 An interactive webpage gift 🎊
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Aditi Belwal
 🎓 BTech CSE (AI & ML) | 💻 Web Developer & Designer
 🔗 GitHub
