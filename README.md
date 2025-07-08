@@ -1,6 +1,8 @@
 # 🎂 Birthday Profile Card using Bootstrap
 
 This project is a creative and personalized **Birthday Profile Web Page** designed with **HTML** and **Bootstrap 4**. It features a beautifully styled profile card with an image, a name, and a heartfelt birthday message, along with a link to a detailed message page.
+![image](https://github.com/user-attachments/assets/928644c0-3536-4654-9002-cea47df30599)
+
 
 ---
 
