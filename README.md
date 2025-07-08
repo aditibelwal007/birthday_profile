@@ -1,18 +1,22 @@
-# birthday_profile
-This project is a creative and beautifully styled Birthday Profile Card built using HTML and Bootstrap 4. It features a personalized birthday greeting card with an image, name, sweet message, and a link to a separate page containing a heartfelt birthday letter.
+# 🎂 Birthday Profile Card using Bootstrap
 
-💡 Key Highlights
-🎨 Bootstrap-powered card layout
+This project is a creative and personalized **Birthday Profile Web Page** designed with **HTML** and **Bootstrap 4**. It features a beautifully styled profile card with an image, a name, and a heartfelt birthday message, along with a link to a detailed message page.
 
-🖼️ Personalized image and name
+---
 
-💬 Sweet message and greeting
+## 💡 Features
 
-🔗 Link to a full birthday note (profile-link.html)
+- 🎨 Stylish birthday card layout using Bootstrap
+- 📸 Profile image with personalized title and name
+- 💬 Sweet message to celebrate the birthday
+- 🔗 Linked profile page with a longer birthday note
+- 📱 Responsive design for all screen sizes
+- 🌸 Clean and elegant UI
 
-📱 Fully responsive design
+---
 
-🌸 Aesthetic and heartfelt UI for a special day
+## 📁 Project Structure
+
 
 📁 Files Included
 index.html – Main profile card with name, image, and greeting
